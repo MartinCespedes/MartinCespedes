@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MartinCespedes
-- 👀 I’m interested in ... Full Stack Developer
-- 🌱 I’m currently learning ... CSS, HTML, JavaScript, Node.js, Express.js, mySQL, Handlebars.js 
-- 💞️ I’m looking to collaborate on ...Develop something that will never be forgotten
+- 👀 I’m interested in ... Developing as a Full Stack Dev
+- 🌱 I’m currently learning ... @ - University of Miami - " CSS, HTML, JavaScript, Node.js, Express.js, mySQL, Handlebars.js" 
+- 💞️ I’m looking to collaborate on ...something that will never be forgotten
 - 📫 How to reach me ...Only here for right now!!!
 
 <!---
