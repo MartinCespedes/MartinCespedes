@@ -5,7 +5,7 @@
 - Hello, I'm Martin Cespedes, a driven full-stack developer with a passion for creating impactful projects that solve real-world problems. With a commitment to lifelong learning and a track record of delivering high-quality software solutions, I am eager to bring my skills and expertise to a dynamic and fast-paced software development environment.
 
 ## 👀 Areas of Expertise
-- My areas of expertise include full-stack development, with a focus on the latest technologies including CSS, HTML, JavaScript, Node.js, Express.js, mySQL,  Handlebars.js, mongoDB, Monngoose. I am always seeking new challenges and opportunities to grow my skills and deepen my knowledge in this exciting and rapidly-evolving field.
+- My areas of expertise include full-stack development, with a focus on the latest technologies including CSS, HTML, JavaScript, Node.js, Express.js, mySQL, Handlebars.js, mongoDB, Mongoose. I am always seeking new challenges and opportunities to grow my skills and deepen my knowledge in this exciting and rapidly-evolving field.
 
 ## 🌱Education
 - I am a student at the University of Miami, where I am actively pursuing my education in full-stack development and honing my skills in the latest technologies.
@@ -16,6 +16,6 @@
 ## 📫Contact
 - I look forward to connecting and exploring potential collaboration opportunities.   If you are interested in working together, please feel free to reach out to me.
 - Email: Martin_Cespedes@aol.com
-- Phone: (754)-226-3932
+
 
 
