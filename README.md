@@ -1,6 +1,6 @@
 
 ## 👋Introduction
-<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="FullStackDev" width="600px"/>
+<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="FullStackDev" width="1000px"/>
 - Hello, I'm Martin Cespedes, a driven full-stack developer with a passion for creating impactful projects that solve real-world problems. With a commitment to lifelong learning and a track record of delivering high-quality software solutions, I am eager to bring my skills and expertise to a dynamic and fast-paced software development environment.
 
 ## 👀 Areas of Expertise
