@@ -1,4 +1,6 @@
-## ![Full-Stack-Certificate](./assets/ff122b2e-3449-4957-a41f-bef1a66419cf.png)
+##
+
+![Full-Stack-Certificate](./assets/ff122b2e-3449-4957-a41f-bef1a66419cf.png)
 
 ## <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/Hi.gif" width="29px" > Introduction
 
@@ -24,9 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="4%" />
 </div>
 
-## 🌱 Education
+## 🌱 I am currently learning
 
-- I am a University of Miami alumnus, having successfully completed my degree in full-stack development. As a diligent professional, I continually refine my expertise in cutting-edge technologies to deliver exceptional results in the field.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="4%" />
 
 ## 📫Contact
 
