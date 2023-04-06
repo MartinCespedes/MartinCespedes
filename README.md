@@ -1,6 +1,6 @@
 ##
 
-<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="FullStackDev" style="width: 1000px; height: auto;"/>
+![Full-Stack-Certificate](./assets/ff122b2e-3449-4957-a41f-bef1a66419cf.png)
 
 ## 👋Introduction
 
