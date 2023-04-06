@@ -4,11 +4,28 @@
 
 ## 👋Introduction
 
-- Hello, I'm Martin Cespedes, a driven full-stack developer with a passion for creating impactful projects that solve real-world problems. With a commitment to lifelong learning and a track record of delivering high-quality software solutions, I am eager to bring my skills and expertise to a dynamic and fast-paced software development environment.
+- Hello, I'm Martin Cespedes, a driven full-stack developer with a passion for creating impactful projects that solve real-world problems. With a commitment to lifelong learning and a track record of delivering high-quality software solutions, I am eager to bring my skills and expertise to a dynamic and fast-paced software development environment. My areas of expertise include full-stack development, with a focus on the latest technologies including CSS, HTML, JavaScript, Node.js, Express.js, mySQL, Handlebars.js, mongoDB, Mongoose. I am always seeking new challenges and opportunities to grow my skills and deepen my knowledge in this exciting and rapidly-evolving field.
 
-## 👀 Areas of Expertise
+## 👀 Tech Tools :
 
-- My areas of expertise include full-stack development, with a focus on the latest technologies including CSS, HTML, JavaScript, Node.js, Express.js, mySQL, Handlebars.js, mongoDB, Mongoose. I am always seeking new challenges and opportunities to grow my skills and deepen my knowledge in this exciting and rapidly-evolving field.
+<div style="margin: 1em 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavasSript" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="4%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="4%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" alt="handlebars" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VScode" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="4%" />
+  <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="4%" />
+</div>
 
 ## 🌱 Education
 
