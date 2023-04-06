@@ -6,7 +6,7 @@
 
 - Hi, I'm Martin Cespedes—your go-to full-stack developer, fueled by a passion for crafting innovative solutions to real-world challenges. I excel in cutting-edge technologies such as CSS, HTML, JavaScript, Node.js, Express.js, MySQL, Handlebars.js, MongoDB and React. Eager to contribute to fast-paced development teams, I'm on a constant quest for skill growth and knowledge expansion in this ever-evolving industry. Let's make an impact together!
 
-## 🛠️ Tech Tools :
+## 🛠️ Tech Tools
 
 <div style="margin: 1em 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavasSript" width="4%" />
@@ -28,13 +28,13 @@
 
 ## 🌱 I am currently learning
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="4%" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="4%" />
 
-## 📫Contact
+## 📫 Contact
 
 <a href="mailto:martin_cespedes@aol.com"><img src="https://img.icons8.com/fluency/48/000000/mailing.png" width="4%"/></a> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/martin-cespedes-3741b4265/) &nbsp;
 
-## 📈 GitHub Stats:
+## 📈 GitHub Stats
 
 ![MartinCespedes GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinCespedes&count_private=true&show_icons=true&theme=tokyonight) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCespedes&theme=tokyonight)
