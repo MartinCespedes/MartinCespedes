@@ -2,7 +2,7 @@
 
 ![Full-Stack-Certificate](./assets/ff122b2e-3449-4957-a41f-bef1a66419cf.png)
 
-## 👋Introduction
+## <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/Hi.gif" width="29px" > Introduction
 
 - Hello, I'm Martin Cespedes, a driven full-stack developer with a passion for creating impactful projects that solve real-world problems. With a commitment to lifelong learning and a track record of delivering high-quality software solutions, I am eager to bring my skills and expertise to a dynamic and fast-paced software development environment. My areas of expertise include full-stack development, with a focus on the latest technologies including CSS, HTML, JavaScript, Node.js, Express.js, mySQL, Handlebars.js, mongoDB, Mongoose. I am always seeking new challenges and opportunities to grow my skills and deepen my knowledge in this exciting and rapidly-evolving field.
 
